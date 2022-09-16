@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parallax_1{
+    background: url(59881-kot_belyj_krupnyj_plan_stvol.jpg);
+    background-repeat: no-repeat;
+    padding: 30vh 0 70vh 0;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+.parallax_1 h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 45px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.8);
+}
+.parallax_2{
+    background: url(60573-kamni_derevo_zakat.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.content_1{
+    text-align: center;
+    padding: 80px;
+}
+.content_1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 25px;
+}
+.content_2{
+    text-align: center;
+    padding: 120px;
+
+}
+.content_1 p, .content_2 p{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 800px;
+    display: inline-block;
+}
